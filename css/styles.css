@@ -1,0 +1,23 @@
+.walrus-showing {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.fadeinpeekaboo {
+}
+
+.clickme {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickme:hover {
+  text-decoration: underline;
+}
