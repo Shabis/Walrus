@@ -1,5 +1,4 @@
 # Walrus
-###CSS & HTML Code Review
 ###By Shelby Clayton
 
 
